@@ -10,3 +10,4 @@ Kode blokk: `this is a code block`
 
 åjåjåj, nå skjer det ting?
 
+No skjer det ting
