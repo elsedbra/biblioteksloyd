@@ -8,3 +8,5 @@ Den vil sikkert bli ødelagt
 
 Kode blokk: `this is a code block`
 
+åjåjåj, nå skjer det ting?
+
